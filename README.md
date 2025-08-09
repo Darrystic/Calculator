@@ -1,8 +1,8 @@
+<<<<<<< HEAD
 # Basic Calculator Program
 
 ## Description
 This is a simple Python program that prompts the user to input two numbers and a mathematical operation (+, -, *, /). It performs the operation and displays the result, with error handling for invalid inputs (non-numeric values) and division by zero.
-
 Example:
 - Input: `10`, `5`, `+`
 - Output: `10 + 5 = 15`
@@ -35,3 +35,7 @@ Example:
 
 ## License
 This project is for educational purposes and can be used freely. No warranty is provided.
+=======
+# Calculator
+Basic Python calculator program
+>>>>>>> 7e8f2cabe7d69100bd8aded9d1adce27317b82ff
